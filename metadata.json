@@ -1,0 +1,5 @@
+{
+  "name": "Mindful Log",
+  "description": "A personal, minimalist micro-blogging application that allows the owner to post daily thoughts, enhanced with AI sentiment analysis.",
+  "requestFramePermissions": []
+}
